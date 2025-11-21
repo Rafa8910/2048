@@ -1,2 +1,1 @@
-# 2048
-How to play 2048 : 
+(https://replit.com/@rafaellovioruma/Game2048)
